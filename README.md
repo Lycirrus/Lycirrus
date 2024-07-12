@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=250&section=footer&text=Welcome%20to%20Lycirrus'%20GitHub&fontSize=45&desc=since%202024&animation=twinkling&fontAlign=60&fontAlignY=60&descSize=30&descAlign=87&descAlignY=80)
 
 
-<div style="display:flex; flex-direction:row;">
-  <b>NICE 2 MEET 2</b>
 <div align="right">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLycirrus&count_bg=%2398B4D0&title_bg=%23000000&icon=swift.svg&icon_color=%2388E227&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)</div></div>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLycirrus&count_bg=%2398B4D0&title_bg=%23000000&icon=swift.svg&icon_color=%2388E227&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 ---
 <div align="center">
