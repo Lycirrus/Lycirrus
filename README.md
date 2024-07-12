@@ -23,9 +23,9 @@
 </div>
 
 <div style="display:flex; flex-direction:row;"><b>S&nbsp;U&nbsp;B</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:rishycross@gmail.com">
+    <a href="mailto:rishycross@gmail.com">
         <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=flat-square&logoColor=white&logo=Gmail"> 
+        Gmail-EA4335?style=flat-square&logoColor=white&logo=Gmail"/> 
     </a>
 </div>
 
