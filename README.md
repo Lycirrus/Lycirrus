@@ -15,21 +15,17 @@
 </div>
 
 ## Contact
-<div style="display:flex; flex-direction:row;">
-  <!-- <b>MAIN</b>&nbsp;&nbsp;&nbsp; -->
-  <a href="mailto:knhs4@naver.com">
-    <img src="https://img.shields.io/badge/
-    Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white"> 
-  </a>
-</div>
+<em>MAIN</em>&nbsp;&nbsp;&nbsp;
+<a href="mailto:knhs4@naver.com">
+  <img src="https://img.shields.io/badge/
+  Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white"> 
+</a>
 
-<div style="display:flex; flex-direction:row;">
-  <!-- <b>S&nbsp;U&nbsp;B</b>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="mailto:rishycross@gmail.com">
-    <img src="https://img.shields.io/badge/
-    Gmail-EA4335?style=flat-square&logoColor=white&logo=Gmail"/> 
-  </a>
-</div>
+<em>&nbsp;S&nbsp;U&nbsp;B</em>&nbsp;&nbsp;&nbsp;
+<a href="mailto:rishycross@gmail.com">
+  <img src="https://img.shields.io/badge/
+  Gmail-EA4335?style=flat-square&logoColor=white&logo=Gmail"/> 
+</a>
 
 ## Teck Stack
 <div align="center">
