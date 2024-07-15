@@ -18,7 +18,7 @@
 <em>MAIN</em>&nbsp;&nbsp;&nbsp;
 <a href="mailto:knhs4@naver.com">
   <img src="https://img.shields.io/badge/
-  Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white"> 
+  _mail-03C75A?style=flat-square&logo=naver&logoColor=white"> 
 </a>
 
 <em>&nbsp;S&nbsp;U&nbsp;B</em>&nbsp;&nbsp;&nbsp;
