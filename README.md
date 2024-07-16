@@ -16,15 +16,11 @@
 
 ## Contact
 <em>MAIN</em>&nbsp;&nbsp;&nbsp;
-<a href="mailto:knhs4@naver.com">
-  <img src="https://img.shields.io/badge/
-  _mail-03C75A?style=flat-square&logo=naver&logoColor=white"> 
+<a href="mailto:knhs4@naver.com"><img src="https://img.shields.io/badge/_mail-03C75A?style=flat-square&logo=naver&logoColor=white">
 </a>
 
 <em>&nbsp;S&nbsp;U&nbsp;B</em>&nbsp;&nbsp;&nbsp;
-<a href="mailto:rishycross@gmail.com">
-  <img src="https://img.shields.io/badge/
-  Gmail-EA4335?style=flat-square&logoColor=white&logo=Gmail"/> 
+<a href="mailto:rishycross@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoColor=white&logo=Gmail"/>
 </a>
 
 ## Teck Stack
